@@ -17,7 +17,7 @@ So taking the 6W, it would require 6Wh of battery power to run the fan for 1 hou
 As for the thermoelectric pads, [A quick startpage search](https://browse.startpage.com/do/show_picture.pl?l=english&rais=1&oiu=https%3A%2F%2Fsc01.alicdn.com%2Fkf%2FHTB1Q.3YLXXXXXXaapXXq6xXFXXXz%2FTEC-12706-12v-6A-40-40mm-66W.jpg&sp=a53b2f7043fc4c2f360fc13746530162&t=default) shows that these modules use approximately 7A.
 
 ### Final Calculations:
-*Outside Fan 6W (0.5A)
-*Inside Fan 8W (0.54A)
-*Thermoelectric Pad 7A
-*Total Requirement 8.04Ah
+* Outside Fan 6W (0.5A)
+* Inside Fan 8W (0.54A)
+* Thermoelectric Pad 7A
+* Total Requirement 8.04Ah

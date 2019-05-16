@@ -11,8 +11,13 @@ The goal of this project to to overhaul a thermoeletric fridge, like the ones yo
 # Calculations
 ## Battery Size Calculation
 For the battery size you need to take into consideration, how cold you would like to get down to (Typically stock is around 20F below AMBIENT temperatures). Take into account the power consumption for each fan the unit has. (Mine has 2). Generally for the outer fan, a power consumption of 0.5A. So my calculation would be as follows:
+
+
 ***120MM Outside fan: 12V * .5 = 6W***
+
 ***80MM Inside fan: 12V * .66 = 8W (7.92W)***
+
+
 So taking the 6W, it would require 6Wh of battery power to run the fan for 1 hour. And Likewise for the inside fan, 8Wh. That means we need a combined total of 14Wh to run both fans.
 As for the thermoelectric pads, [A quick startpage search](https://browse.startpage.com/do/show_picture.pl?l=english&rais=1&oiu=https%3A%2F%2Fsc01.alicdn.com%2Fkf%2FHTB1Q.3YLXXXXXXaapXXq6xXFXXXz%2FTEC-12706-12v-6A-40-40mm-66W.jpg&sp=a53b2f7043fc4c2f360fc13746530162&t=default) shows that these modules use approximately 7A.
 
@@ -20,4 +25,4 @@ As for the thermoelectric pads, [A quick startpage search](https://browse.startp
 * Outside Fan 6W (0.5A)
 * Inside Fan 8W (0.54A)
 * Thermoelectric Pad 7A
-* Total Requirement 8.04Ah
+* ***Total Requirement 8.04Ah***

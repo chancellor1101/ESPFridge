@@ -14,7 +14,6 @@ For the battery size you need to take into consideration, how cold you would lik
 
 
 ***120MM Outside fan: 12V * .5 = 6W***
-
 ***80MM Inside fan: 12V * .66 = 8W (7.92W)***
 
 

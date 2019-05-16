@@ -13,7 +13,7 @@ The goal of this project to to overhaul a thermoeletric fridge, like the ones yo
 For the battery size you need to take into consideration, how cold you would like to get down to (Typically stock is around 20F below AMBIENT temperatures). Take into account the power consumption for each fan the unit has. (Mine has 2). Generally for the outer fan, a power consumption of 0.5A. So my calculation would be as follows:
 
 
-***120MM Outside fan: 12V * .5 = 6W***
+***120MM Outside fan: 12V * .5 = 6W***</br>
 ***80MM Inside fan: 12V * .66 = 8W (7.92W)***
 
 
